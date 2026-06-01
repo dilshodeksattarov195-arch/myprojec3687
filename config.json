@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartsarse",
+        "uuid": 24223590,
+        "checksum": "tz37z"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
